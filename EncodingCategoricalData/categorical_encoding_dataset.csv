@@ -1,0 +1,101 @@
+Customer_ID,City,Gender,Payment_Method,Education_Level,Satisfaction_Level,Subscribed,Product_Category,Purchased
+1001,Chennai,Female,Credit Card,Master,High,No,Furniture,No
+1002,Kolkata,Male,Cash,PhD,Medium,No,Fashion,No
+1003,Bangalore,Male,UPI,High School,Low,No,Furniture,Yes
+1004,Kolkata,Female,Cash,High School,Medium,Yes,Jewelry,No
+1005,Kolkata,Female,Cash,Bachelor,Low,Yes,Jewelry,Yes
+1006,Mumbai,Female,Credit Card,Master,High,No,Books,No
+1007,Bangalore,Male,UPI,Master,Low,No,Jewelry,Yes
+1008,Bangalore,Female,Debit Card,Bachelor,Low,Yes,Electronics,Yes
+1009,Bangalore,Male,Debit Card,Bachelor,Low,No,Beauty,Yes
+1010,Kolkata,Male,Credit Card,Master,High,No,Toys,Yes
+1011,Chennai,Female,Credit Card,Master,High,No,Furniture,Yes
+1012,Bangalore,Female,UPI,PhD,Low,Yes,Beauty,Yes
+1013,Kolkata,Male,Debit Card,PhD,Low,Yes,Groceries,No
+1014,Mumbai,Male,Debit Card,Bachelor,Medium,Yes,Fashion,Yes
+1015,Chennai,Female,Debit Card,PhD,Low,No,Electronics,No
+1016,Mumbai,Female,Cash,High School,Medium,No,Furniture,Yes
+1017,Chennai,Female,Debit Card,PhD,Low,No,Beauty,No
+1018,Kolkata,Male,Cash,PhD,Medium,Yes,Fashion,No
+1019,Delhi,Male,UPI,High School,High,No,Books,No
+1020,Chennai,Male,Cash,Bachelor,Low,No,Electronics,Yes
+1021,Mumbai,Male,UPI,High School,Low,No,Electronics,Yes
+1022,Kolkata,Male,Debit Card,PhD,Low,No,Books,No
+1023,Chennai,Male,Debit Card,Bachelor,Low,Yes,Toys,Yes
+1024,Delhi,Female,UPI,PhD,Medium,Yes,Books,No
+1025,Delhi,Male,Credit Card,High School,Low,No,Electronics,Yes
+1026,Bangalore,Male,UPI,High School,High,Yes,Electronics,No
+1027,Bangalore,Male,Credit Card,PhD,High,Yes,Beauty,No
+1028,Mumbai,Female,Cash,Master,Low,No,Jewelry,Yes
+1029,Chennai,Male,Cash,Master,High,No,Fashion,No
+1030,Chennai,Male,Cash,High School,Low,Yes,Books,Yes
+1031,Bangalore,Female,Debit Card,High School,Low,No,Fashion,No
+1032,Chennai,Male,Cash,Master,High,Yes,Books,No
+1033,Chennai,Male,Credit Card,Master,Low,No,Groceries,Yes
+1034,Delhi,Male,Cash,PhD,High,Yes,Electronics,Yes
+1035,Bangalore,Male,UPI,PhD,Medium,No,Jewelry,Yes
+1036,Kolkata,Male,UPI,Master,Low,Yes,Beauty,No
+1037,Bangalore,Female,Debit Card,PhD,Medium,Yes,Jewelry,Yes
+1038,Kolkata,Female,UPI,PhD,High,Yes,Jewelry,No
+1039,Delhi,Female,Credit Card,Bachelor,Medium,No,Jewelry,No
+1040,Mumbai,Male,Cash,PhD,Medium,Yes,Fashion,Yes
+1041,Chennai,Male,Debit Card,High School,High,Yes,Books,Yes
+1042,Delhi,Male,Cash,PhD,Medium,No,Automobile,No
+1043,Chennai,Female,Cash,PhD,Medium,No,Groceries,No
+1044,Mumbai,Male,Credit Card,Master,High,Yes,Furniture,Yes
+1045,Mumbai,Male,UPI,High School,Medium,Yes,Jewelry,Yes
+1046,Delhi,Female,UPI,PhD,High,No,Toys,Yes
+1047,Mumbai,Male,Cash,PhD,Medium,No,Fashion,Yes
+1048,Kolkata,Female,Debit Card,Bachelor,High,No,Beauty,Yes
+1049,Mumbai,Female,UPI,PhD,High,No,Furniture,No
+1050,Chennai,Female,Debit Card,PhD,Medium,No,Automobile,No
+1051,Chennai,Male,UPI,Bachelor,Medium,Yes,Toys,No
+1052,Chennai,Male,Debit Card,Master,Medium,No,Automobile,No
+1053,Chennai,Male,Credit Card,PhD,Low,Yes,Furniture,Yes
+1054,Kolkata,Male,Debit Card,Bachelor,Low,Yes,Jewelry,Yes
+1055,Bangalore,Male,Credit Card,High School,Low,Yes,Toys,Yes
+1056,Delhi,Male,Credit Card,Master,High,No,Automobile,No
+1057,Chennai,Male,Debit Card,High School,Medium,Yes,Beauty,No
+1058,Mumbai,Female,Credit Card,High School,High,Yes,Books,Yes
+1059,Chennai,Male,Cash,Bachelor,Low,No,Electronics,Yes
+1060,Mumbai,Female,Credit Card,PhD,Medium,Yes,Books,No
+1061,Mumbai,Male,UPI,Bachelor,High,Yes,Furniture,No
+1062,Chennai,Male,Debit Card,Bachelor,Medium,No,Fashion,Yes
+1063,Kolkata,Male,Cash,Bachelor,High,Yes,Electronics,Yes
+1064,Mumbai,Female,Debit Card,Bachelor,Medium,Yes,Groceries,No
+1065,Mumbai,Female,UPI,Master,Low,Yes,Beauty,Yes
+1066,Chennai,Female,UPI,PhD,Low,No,Groceries,Yes
+1067,Mumbai,Female,UPI,High School,Medium,No,Toys,Yes
+1068,Mumbai,Male,Credit Card,High School,High,No,Electronics,No
+1069,Chennai,Female,Credit Card,PhD,Low,Yes,Groceries,No
+1070,Chennai,Male,Debit Card,High School,Low,Yes,Groceries,No
+1071,Delhi,Male,Debit Card,PhD,Low,No,Automobile,No
+1072,Kolkata,Female,Cash,High School,Medium,Yes,Books,No
+1073,Kolkata,Female,Cash,Bachelor,Medium,Yes,Automobile,No
+1074,Mumbai,Female,Debit Card,High School,High,No,Electronics,No
+1075,Kolkata,Female,Credit Card,PhD,High,No,Electronics,Yes
+1076,Mumbai,Female,UPI,PhD,High,Yes,Furniture,Yes
+1077,Delhi,Female,Debit Card,PhD,Medium,Yes,Automobile,Yes
+1078,Chennai,Female,Cash,PhD,Medium,Yes,Sports,Yes
+1079,Chennai,Female,Credit Card,PhD,High,No,Books,Yes
+1080,Chennai,Male,Debit Card,Master,High,No,Electronics,Yes
+1081,Kolkata,Female,Debit Card,Master,Medium,No,Furniture,Yes
+1082,Delhi,Female,Credit Card,High School,High,No,Automobile,No
+1083,Kolkata,Male,Debit Card,PhD,Low,Yes,Books,No
+1084,Kolkata,Female,Credit Card,High School,Medium,No,Automobile,Yes
+1085,Delhi,Male,UPI,PhD,High,No,Groceries,Yes
+1086,Delhi,Male,Credit Card,PhD,Medium,No,Furniture,No
+1087,Delhi,Female,Credit Card,Master,Low,No,Books,Yes
+1088,Delhi,Male,Credit Card,Master,Medium,No,Jewelry,Yes
+1089,Chennai,Male,Debit Card,Bachelor,Medium,Yes,Toys,No
+1090,Bangalore,Male,Debit Card,Master,Medium,Yes,Toys,Yes
+1091,Bangalore,Male,Credit Card,Bachelor,Medium,No,Books,No
+1092,Delhi,Female,Debit Card,Bachelor,Low,Yes,Automobile,Yes
+1093,Bangalore,Male,Cash,Bachelor,Medium,No,Furniture,No
+1094,Bangalore,Female,Cash,Bachelor,Medium,No,Toys,No
+1095,Delhi,Male,Debit Card,Bachelor,High,Yes,Furniture,No
+1096,Bangalore,Male,Debit Card,High School,Medium,Yes,Toys,Yes
+1097,Kolkata,Male,Credit Card,Master,High,No,Groceries,No
+1098,Mumbai,Male,UPI,Bachelor,Low,No,Automobile,Yes
+1099,Mumbai,Female,Debit Card,PhD,Low,No,Groceries,Yes
+1100,Delhi,Female,Cash,Master,Low,Yes,Toys,Yes
